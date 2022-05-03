@@ -1,6 +1,6 @@
 import { getTreeData } from './../../utils/firebase.utils';
 
-import { createAsyncThunk, createSlice, PayloadAction } from '@reduxjs/toolkit';
+import { createAsyncThunk, createSlice } from '@reduxjs/toolkit';
 
 export type Branch = IFile & IDir;
 

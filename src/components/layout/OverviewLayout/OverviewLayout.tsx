@@ -1,4 +1,4 @@
-import { Col, Layout, Row } from 'antd';
+import { Col, Row } from 'antd';
 import { FileInfo } from '../../FileInfo/FileInfo';
 import { ContentLayout } from '../ContentLayout/ContentLayout';
 import { Sider } from '../Sider/Sider';

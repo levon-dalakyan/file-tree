@@ -6,9 +6,6 @@ import {
   collection,
   query,
   getDocs,
-  getDoc,
-  setDoc,
-  updateDoc,
 } from 'firebase/firestore';
 import { writeBatch } from 'firebase/firestore';
 import { Branch } from '../store/slices/tree.slice';
